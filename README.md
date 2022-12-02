@@ -1,14 +1,10 @@
 <div align="center">
     <img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47c2wgnx18en58bespuz9tfkc2t3wdc25rtzooa2ny&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
-      
-    
+
 ### <div align="center">I'm Remco, a full-time full-stack developer</div>  
       
-    
 <br/>  
-    
-    
 ## My Skill Set
 
 <div align="center">  
@@ -38,10 +34,15 @@
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
-    
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RemcoDewlde&show_icons=true&count_private=true&hide_border=true" align="center" /></div>      
 <br/>  
     
-    
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=RemcoDewlde&&style=flat-square" align="center" />
+</div>
+
 ## Connect with me  
 <div align="center">
     <a href="https://github.com/RemcoDewlde" target="_blank">
@@ -52,13 +53,3 @@
     </a>  
 </div>  
           
-<br/>  
-    
-    
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RemcoDewlde&show_icons=true&count_private=true&hide_border=true" align="center" /></div>      
-<br/>  
-    
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=RemcoDewlde&&style=flat-square" align="center" />
-</div>  
